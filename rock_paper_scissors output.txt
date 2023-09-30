@@ -1,0 +1,5 @@
+Options to choose from :1.Rock 2.Paper 3.Scissors
+The Computer already made it's choice
+Please make yours : rock
+You choose : rock Computer choose : scissors
+User won ( The rock smashes the scissor )
